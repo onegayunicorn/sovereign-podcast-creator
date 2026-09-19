@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "⚡ SOVEREIGN PODCAST CREATOR — DEV START"
+echo "========================================"
+echo "Web → http://localhost:5173"
+echo "API → http://localhost:3001"
+echo ""
+echo "Run in separate terminals:"
+echo "  pnpm --filter @sovereign/api dev"
+echo "  pnpm --filter @sovereign/web dev"
+echo "  cd engines/dsp-python && pytest tests/ -v"
